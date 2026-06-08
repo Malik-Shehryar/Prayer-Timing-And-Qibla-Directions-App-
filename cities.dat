@@ -1,0 +1,49 @@
+# cities.dat — Prayer Timings & Qibla Direction App
+# Format: CityName|Province|QiblaAngle|Zone|Fajr|Dhuhr|Asr|Maghrib|Isha
+# Zone 1=North(KPK/AJK/GB)  Zone 2=Central(Punjab)  Zone 3=South(Sindh/Balochistan)
+# All prayer times are April base times in HH:MM (24-hour format)
+
+# ── Punjab (Zone 2) ───────────────────────────────────────
+Lahore|Punjab|258.5|2|05:02|12:10|15:38|18:14|19:34
+Faisalabad|Punjab|259.1|2|05:05|12:13|15:41|18:17|19:37
+Multan|Punjab|261.3|2|05:00|12:08|15:36|18:12|19:32
+Gujranwala|Punjab|258.2|2|05:03|12:11|15:39|18:15|19:35
+Rawalpindi|Punjab|257.4|2|05:01|12:09|15:37|18:13|19:33
+Sialkot|Punjab|257.9|2|04:59|12:07|15:35|18:11|19:31
+Bahawalpur|Punjab|262.0|2|05:04|12:12|15:40|18:16|19:36
+Sargodha|Punjab|259.8|2|05:06|12:14|15:42|18:18|19:38
+Sheikhupura|Punjab|258.6|2|05:03|12:11|15:39|18:15|19:35
+Jhang|Punjab|260.2|2|05:07|12:15|15:43|18:19|19:39
+Sahiwal|Punjab|259.5|2|05:05|12:13|15:41|18:17|19:37
+Kasur|Punjab|258.9|2|05:04|12:12|15:40|18:16|19:36
+Rahim Yar Khan|Punjab|263.1|2|05:02|12:10|15:38|18:14|19:34
+
+# ── Sindh (Zone 3) ────────────────────────────────────────
+Karachi|Sindh|267.1|3|05:18|12:25|15:51|18:29|19:49
+Hyderabad|Sindh|265.8|3|05:14|12:21|15:48|18:25|19:45
+Sukkur|Sindh|263.5|3|05:10|12:17|15:44|18:21|19:41
+Larkana|Sindh|263.9|3|05:11|12:18|15:45|18:22|19:42
+Nawabshah|Sindh|265.2|3|05:13|12:20|15:47|18:24|19:44
+Mirpur Khas|Sindh|266.4|3|05:16|12:23|15:50|18:27|19:47
+
+# ── KPK (Zone 1) ──────────────────────────────────────────
+Peshawar|KPK|256.8|1|05:10|12:18|15:45|18:22|19:42
+Abbottabad|KPK|257.2|1|05:08|12:16|15:43|18:20|19:40
+Mardan|KPK|256.5|1|05:11|12:19|15:46|18:23|19:43
+Swat|KPK|256.1|1|05:06|12:14|15:41|18:18|19:38
+Nowshera|KPK|256.7|1|05:12|12:20|15:47|18:24|19:44
+Kohat|KPK|257.5|1|05:09|12:17|15:44|18:21|19:41
+Haripur|KPK|257.0|1|05:07|12:15|15:42|18:19|19:39
+
+# ── Balochistan (Zone 3) ──────────────────────────────────
+Quetta|Balochistan|261.3|3|05:05|12:13|15:40|18:17|19:37
+Turbat|Balochistan|268.2|3|05:20|12:27|15:53|18:31|19:51
+Khuzdar|Balochistan|263.7|3|05:12|12:19|15:46|18:23|19:43
+Hub|Balochistan|266.5|3|05:17|12:24|15:51|18:28|19:48
+
+# ── AJK (Zone 1) ──────────────────────────────────────────
+Muzaffarabad|AJK|257.8|1|05:04|12:12|15:39|18:15|19:35
+Mirpur|AJK|258.1|1|05:05|12:13|15:40|18:16|19:36
+
+# ── Gilgit Baltistan (Zone 1) ─────────────────────────────
+Gilgit|Gilgit Baltistan|255.3|1|05:00|12:08|15:35|18:11|19:31
